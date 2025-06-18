@@ -264,46 +264,7 @@ int main()
     }
 
     
-     /*COMPARAÇÃO ATRIBUTOS*/
-
     
-    // if (PIB1 > PIB2) 
-    // {
-    //     printf("A cidade 1 tem um PIB maior que a cidade 2.\n");
-    // } 
-    // else if (PIB1 < PIB2) 
-    // {
-    //     printf("A cidade 2 tem um PIB maior que a cidade 1.\n");
-    // }
-    // else 
-    // {
-    //     printf("As cidades têm o mesmo PIB.\n");
-    // }
-    // if (PIB_per_capita1 > PIB_per_capita2) 
-    // {
-    //     printf("A cidade 1 tem um PIB per capita maior que a cidade 2.\n");
-    // } 
-    // else if (PIB_per_capita1 < PIB_per_capita2) 
-    // {
-    //     printf("A cidade 2 tem um PIB per capita maior que a cidade 1.\n");
-    // }
-    // else 
-    // {
-    //     printf("As cidades têm o mesmo PIB per capita.\n");
-    // }
-    // if (pontos_tur1 > pontos_tur2) 
-    // {
-    //     printf("A cidade 1 tem mais pontos turisticos que a cidade 2.\n");
-    // } 
-    // else if (pontos_tur1 < pontos_tur2) 
-    // {
-    //     printf("A cidade 2 tem mais pontos turisticos que a cidade 1.\n");
-    // }
-    // else 
-    // {
-    //     printf("As cidades têm o mesmo número de pontos turisticos.\n");
-    // }
-
     return 0;
 
 
